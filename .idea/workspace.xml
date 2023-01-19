@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b547fc66-dacf-483d-8f3b-1f5bc125c80b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python/kyu5/weight-for-weight/weight-For-Weight.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/kyu5/weight-for-weight/weight-For-Weight.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
