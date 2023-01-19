@@ -1,4 +1,4 @@
-strng = "56 65 74 100 99 68 86 "
+strng = "56 65 74 100 99 68 86"
 def order_weight(strng):
     soma = 0
     peso = ""
@@ -32,3 +32,4 @@ def order_weight(strng):
         resultado = " ".join(resultado)
 
     return resultado
+print(order_weight(strng))
